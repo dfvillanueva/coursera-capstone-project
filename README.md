@@ -1,1 +1,1 @@
-# coursera-capstone-project
+# coursera-machine-learning-with-python-final-project
